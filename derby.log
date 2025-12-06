@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Dec 06 15:06:29 GMT+08:00 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019a-f27b-c56b-00000f389a48 
+on database directory C:\Users\26483\Downloads\VocabMaster\vocab_db_v8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6bc7c054 
+Loaded from file:/C:/Users/26483/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.9+7-LTS-338
+user.dir=C:\Users\26483\Downloads\VocabMaster
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
